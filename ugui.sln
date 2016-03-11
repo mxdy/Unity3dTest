@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ugui.CSharp", "ugui.CSharp.csproj", "{37CAE834-68C0-421C-4382-5836FEA642B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ugui.CSharp.Editor", "ugui.CSharp.Editor.csproj", "{E09DBC47-4A08-7E70-19BF-E1408553F6DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37CAE834-68C0-421C-4382-5836FEA642B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CAE834-68C0-421C-4382-5836FEA642B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CAE834-68C0-421C-4382-5836FEA642B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CAE834-68C0-421C-4382-5836FEA642B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E09DBC47-4A08-7E70-19BF-E1408553F6DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09DBC47-4A08-7E70-19BF-E1408553F6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09DBC47-4A08-7E70-19BF-E1408553F6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09DBC47-4A08-7E70-19BF-E1408553F6DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
